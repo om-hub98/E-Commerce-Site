@@ -1,0 +1,27 @@
+export const CarouselData = [
+    {
+        id:1,
+        src:"src\assets\images\black-friday-elements-assortment.jpg",
+        alt:"CarouselImg"
+    },
+    {
+        id:1,
+        src:"src\assets\images\full-shot-woman-online-shopping.jpg",
+        alt:"CarouselImg"
+    },
+    {
+        id:1,
+        src:"src\assets\images\online-fashion-shopping-collage.jpg",
+        alt:"CarouselImg"
+    },
+    {
+        id:1,
+        src:"src\assets\images\black-friday-elements-assortment.jpg",
+        alt:"CarouselImg"
+    },
+    {
+        id:1,
+        src:"src\assets\images\black-friday-elements-assortment.jpg",
+        alt:"CarouselImg"
+    },
+]
